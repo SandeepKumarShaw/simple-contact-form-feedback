@@ -1,0 +1,31 @@
+#poststuff {
+    /* padding-top: 10px; */
+    /* min-width: 763px; */
+    display: block;
+    margin-left: 12px;
+    margin-right: 0px;
+}
+.postbox {
+    margin: 20px 0px 0px;
+    display: block;
+    padding: 0px 50px 0px;
+}
+#poststuff .inside {
+   border: 2px solid #0073aa;
+    padding: 10px 0px 9px;
+    margin: 16px 0px;
+    padding-left: 11px;
+}
+textarea#simple_css_entry {
+    padding: 2px 10px;
+    line-height: 1.4;
+    resize: vertical;
+    font-size: 14px;
+    font-family: inherit;
+    font-weight: inherit;
+    width:99%;height:342px;
+    background-color: #fff;
+    color: #32373c;
+    overflow: scroll;
+    overflow-x: hidden;
+}
